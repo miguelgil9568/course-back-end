@@ -9,42 +9,42 @@ const todo = [
     {
         userId: 1,
         id : 1,
-        title: 'Faires les courses',
+        title: 'Miguel Gil',
         completed: false 
     },{
         userId: 1,
         id : 2,
-        title: 'Faires les courses',
+        title: 'Maria Isabel',
         completed: false 
     },{
         userId: 1,
         id : 3,
-        title: 'Faires les courses',
+        title: 'Daniel Rutia',
         completed: false 
     },{
         userId: 1,
         id : 4,
-        title: 'Faires les courses',
+        title: 'Yeison cabrera',
         completed: false 
     },{
         userId: 1,
         id : 5,
-        title: 'Faires les courses',
+        title: 'Camilo Ubaque',
         completed: false 
     },{
         userId: 1,
         id : 6,
-        title: 'Faires les courses',
+        title: 'Andre montilla',
         completed: false 
     },{
         userId: 1,
         id : 7,
-        title: 'Faires les courses',
+        title: 'Dario Gomez',
         completed: false 
     },{
         userId: 1,
         id : 8,
-        title: 'Faires les courses',
+        title: 'Sepulveda',
         completed: false 
     }
 ]
